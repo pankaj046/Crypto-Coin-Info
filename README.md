@@ -2,6 +2,6 @@
 
 =============================================================================
 <p align="center">
-  <img src="your_relative_path_here" width="350" height="600" title="hover text">
+  <img src="https://raw.githubusercontent.com/pankaj046/Crypto-Coin-Info/master/screenshot.png" width="350" height="600" title="hover text">
 </p>
 =============================================================================
