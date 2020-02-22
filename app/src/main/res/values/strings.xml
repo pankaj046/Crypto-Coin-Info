@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crypto Coin Info</string>
+
+    <string name="autotext">e.g. Bitcoin</string>
+
+    <string name="name">Currency Name</string>
+    <string name="usprice">Price</string>
+
+    <string name="price_usd">Price Us Doller</string>
+    <string name="price_btc">Price Btc</string>,
+    <string name="h_volume_usd">h_volume_usd</string>
+    <string name="market_cap_usd">market_cap_usd</string>
+    <string name="available_supply">Available Supply</string>
+    <string name="total_supply">Total Supply</string>
+    <string name="max_supply">Maximum Supply</string>
+    <string name="percent_change_1h">% change In 1 Hours</string>
+    <string name="percent_change_24h">% change In 24 Hours</string>
+    <string name="percent_change_7d">% change In 7 Days</string>
+    <string name="last_updated">Last Update</string>
+    <string name="loading">Loading&#8230;</string>
+
+</resources>
